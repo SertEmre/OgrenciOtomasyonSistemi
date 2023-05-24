@@ -8,6 +8,7 @@ Yeşil 'Code' yazılı butona tıklayıp ardından, Download ZIP seçeneği ile 
 
 ## Projeyi Çalıştırma
 İndirdiğiniz ZIP dosyasını klasöre çıkartınız. Çıkarttıktan 'main.c' dosyasını, herhangi bir C programlama dili editörü ile açabilirsiniz. (CodeBlocks, Visual Studio Code, vs.)
+Projeyi çalıştırdıktan sonra konsolda çıkan talimatlardan istediğiniz seçeneği seçerek projeyi çalıştırabilirsiniz.
 
 
 ## Kullanılan Teknolojiler
